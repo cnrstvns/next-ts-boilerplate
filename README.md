@@ -19,6 +19,4 @@ Prettier with:
 
 - TailwindCSS Plugin
 
-<br />
-
 ### Enjoy!
