@@ -1,4 +1,4 @@
-## ts-eslint-prettier-config
+## next-ts-boilerplate
 
 This is a Next.JS App used to demonstrate the boilerplate associated with linting and formatting a React project with TailwindCSS and Typescript.
 
