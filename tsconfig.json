@@ -30,7 +30,7 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     "next.config.js",
-    "tailwind.config.js",
+    "tailwind.config.ts",
     "postcss.config.js",
     "prettier.config.js"
   ],
